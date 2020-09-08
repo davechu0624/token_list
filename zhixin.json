@@ -1,0 +1,25 @@
+{
+  "name": "ZXT",
+  "logoURI": "https://shop.chayinzi.biz/test/zhixin.png",
+  "keywords": ["zhixin", "ZXT", "token"],
+  "timestamp": "2020-09-07T07:20:22.305Z",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x8ed5afcb8877624802a0cbfb942c95c2b7c87146",
+      "name": "ZhiXin Token",
+      "symbol": "ZXT",
+      "decimals": 18,
+      "logoURI": "https://shop.chayinzi.biz/test/zhixin.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/tether_32.png"
+    }
+  ],
+  "version": { "major": 0, "minor": 0, "patch": 0 }
+}
